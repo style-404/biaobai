@@ -4,5 +4,5 @@
 
 QQ1260457781
 
-#支持
+# 觉得不错可以支持一下，混口饭不容易
 ![支持](https://github.com/style-404/biaobai/blob/master/mm_facetoface_collect_qrcode_1535685442547.png)
