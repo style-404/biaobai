@@ -3,4 +3,4 @@
 QQ1260457781
 
 #支持
-![Alt text](biaobai/mm_facetoface_collect_qrcode_1535685442547.png)
+![支持](https://github.com/style-404/biaobai/blob/master/mm_facetoface_collect_qrcode_1535685442547.png)
